@@ -1,4 +1,5 @@
 ABOUT: 
+
 This repository contains the Exploratory Data Analysis (EDA) of the Olympic dataset. The analysis includes various visualizations and insights into the data, such as medal distributions, gender participation over time, 
 and top-performing countries.
 
@@ -8,3 +9,7 @@ SETTING UP THE DATASET:
    - Click the folder icon located on the left sidebar of the Colab interface.
    - To upload the extracted dataset files into the Colab environment, click the "Upload" button.
 3) Verify the file path in your notebook if required based on the colab environment and name of dataset file and then run the notebook.
+
+
+SUBMITTED BY: 
+PRASOON JHA | M.Tech AI | IIT Roorkee | 24565025
