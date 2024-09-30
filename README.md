@@ -3,7 +3,7 @@ This repository contains the Exploratory Data Analysis (EDA) of the Olympic data
 and top-performing countries.
 
 SETTING UP THE DATASET: 
-1) Download the olympic_dataset.zip file from this repository and to see the CSV files or other data files contained in the ZIP bundle, unzip the file or directly from Kaggle: https://www.kaggle.com/datasets/stefanydeoliveira/summer-olympics-medals-1896-2024
+1) Download the olympic_dataset.zip file from this repository and to see the CSV file contained in the ZIP bundle, unzip the file or directly  download from Kaggle: https://www.kaggle.com/datasets/stefanydeoliveira/summer-olympics-medals-1896-2024
 2) - Launch the Colab notebook on Google.
    - Click the folder icon located on the left sidebar of the Colab interface.
    - To upload the extracted dataset files into the Colab environment, click the "Upload" button.
